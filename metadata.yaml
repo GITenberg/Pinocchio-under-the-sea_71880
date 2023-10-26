@@ -1,0 +1,40 @@
+_repo: Pinocchio-under-the-sea_71880
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: Wilde, Florence R. Abel
+    gutenberg_agent_id: '56441'
+    url: http://www.gutenberg.org/2009/agents/56441
+  translator:
+    agent_name: Chiesa, Carolyn M. Della
+    gutenberg_agent_id: '56439'
+    url: http://www.gutenberg.org/2009/agents/56439
+creator:
+  author:
+    agent_name: Rembadi, Gemma Mongiardini
+    gutenberg_agent_id: '56442'
+    url: http://www.gutenberg.org/2009/agents/56442
+  editor:
+    agent_name: Davis, John W.
+    gutenberg_agent_id: '56440'
+    url: http://www.gutenberg.org/2009/agents/56440
+description: ''
+gutenberg_issued: '2023-10-15'
+identifiers:
+  gutenberg: '71880'
+language: en
+pgterms:marc904: https://archive.org/details/pinocchiounderse00mong/page/n5/mode/2up
+pgterms:marc905: 20220220140208dellachies
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Charlene Taylor, Brian Wilsden, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThe MacMillan Company, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pinocchio under the sea
+url: http://www.gutenberg.org/ebooks/71880
