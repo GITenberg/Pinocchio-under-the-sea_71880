@@ -9,6 +9,9 @@ contributor:
     agent_name: Chiesa, Carolyn M. Della
     gutenberg_agent_id: '56439'
     url: http://www.gutenberg.org/2009/agents/56439
+covers:
+- cover_type: archival
+  image_path: 71880-h/images/cover.jpg
 creator:
   author:
     agent_name: Rembadi, Gemma Mongiardini
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '56440'
     url: http://www.gutenberg.org/2009/agents/56440
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71880#Pinocchio-under-the-sea
 gutenberg_issued: '2023-10-15'
 identifiers:
   gutenberg: '71880'
